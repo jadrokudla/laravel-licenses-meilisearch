@@ -37,59 +37,8 @@
 ### Laravel Artisan Tinker - Database Queries
 <img src="screenshots/licenses_artisan_tinker.png" alt="Artisan Tinker Database Operations" width="800">
 
-## 🚀 Installation
+ 
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/jadrokudla/laravel-licenses-meilisearch.git
-   cd laravel-licenses-meilisearch
-   ```
-
-2. **Install dependencies**
-   ```bash
-   composer install
-   npm install
-   ```
-
-3. **Environment setup**
-   ```bash
-   cp .env.example .env
-   php artisan key:generate
-   ```
-
-4. **Database setup**
-   ```bash
-   php artisan migrate
-   php artisan db:seed
-   ```
-
-5. **Start Meilisearch**
-   ```bash
-   ./meilisearch.exe
-   ```
-
-6. **Import search data**
-   ```bash
-   php artisan scout:import "App\Models\License"
-   ```
-
-7. **Run the application**
-   ```bash
-   php artisan serve
-   npm run dev
-   ```
-
-## 💡 Key Learning Outcomes
-
-This project demonstrates proficiency in:
-
-- **Laravel Framework:** Models, Controllers, Migrations, Eloquent ORM
-- **Database Design:** Proper table relationships and indexing
-- **Search Integration:** Meilisearch setup and Laravel Scout
-- **Form Handling:** Validation, mass assignment protection
-- **Query Optimization:** Efficient database queries and filtering
-- **MVC Pattern:** Clean separation of concerns
-- **Git Workflow:** Version control and repository management
 
 ## 🗂️ Project Structure
 
