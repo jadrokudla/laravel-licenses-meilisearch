@@ -8,8 +8,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-
 Route::get('/zoznam_kontaktov', [KontaktyController::class, 'index'])->name('zoznam_kontaktov');
 Route::get('/zoznam_kontaktov/create', [KontaktyController::class, 'create'])->name('create_kontakt');
 Route::post('/zoznam_kontaktov', [KontaktyController::class, 'store'])->name('kontakty.store');

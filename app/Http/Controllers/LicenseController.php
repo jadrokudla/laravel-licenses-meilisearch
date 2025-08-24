@@ -153,12 +153,9 @@ class LicenseController extends Controller
         return view('licenses_search');
     }
 
-    /**
-     * Custom sorting method for age_group column
-     */
+    
     public function sortByAgeGroup()
     {
-        // Get all licenses and sort them: numbers first (DESC), then strings (ASC)
         $licenses = License::all()->sort(function ($a, $b) {
             $ageA = $a->age_group;
             $ageB = $b->age_group;
@@ -166,22 +163,18 @@ class LicenseController extends Controller
             $isNumericA = is_numeric($ageA);
             $isNumericB = is_numeric($ageB);
             
-            // If both are numeric, sort by numeric value DESCENDING (largest first)
             if ($isNumericA && $isNumericB) {
-                return (int)$ageB <=> (int)$ageA; // Swapped for DESC order
+                return (int)$ageB <=> (int)$ageA; 
             }
             
-            // If A is numeric and B is string, A comes first
             if ($isNumericA && !$isNumericB) {
                 return -1;
             }
             
-            // If A is string and B is numeric, B comes first
             if (!$isNumericA && $isNumericB) {
                 return 1;
             }
             
-            // If both are strings, sort alphabetically ASCENDING
             return strcmp($ageA, $ageB);
         });
 
