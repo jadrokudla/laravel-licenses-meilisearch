@@ -1,31 +1,14 @@
 # Laravel License Management System
 
-A comprehensive web application built with **Laravel 12** for managing driver's licenses and contacts, featuring advanced search capabilities powered by **Meilisearch**.
-## 🚀 Features
-
 ### License Management
-- ✅ Complete CRUD operations for driver's licenses
-- 🔍 **Instant search** with Meilisearch integration
-- 📊 **Age group analysis** with custom sorting algorithms
+- ✅ CRUD operations for licenses
+- 🔍  search with Meilisearch 
+- 📊 groups analysis 
 - 🅿️ **Parking license filtering** and management
 - 📈 **Theory test score tracking** and filtering
 - 🎯 Advanced filtering by multiple criteria
 
-### Contact Management
-- 👥 Contact database with full CRUD functionality
-- 📝 Form validation and error handling
-- 🔒 Mass assignment protection
-- 📋 Clean list views with responsive design
-
-### Technical Highlights
-- 🏗️ **MVC Architecture** following Laravel best practices
-- 🔍 **Laravel Scout** integration for search functionality
-- 🛡️ **Form validation** and security measures
-- 📱 **Responsive design** with clean UI
-- ⚡ **Query optimization** with proper indexing
-
 ## 🛠️ Tech Stack
-
 - **Framework:** Laravel 12 (PHP 8.2+)
 - **Database:** MySQL
 - **Search Engine:** Meilisearch
