@@ -3,7 +3,7 @@
 ### License Management
 - 🔍  search with Meilisearch 
 - 📊 groups analysis 
-- 🅿️ **Parking license filtering** and management
+- 🅿️ **Parking license filtering** 
 - 📈 **Theory test score tracking** and filtering
 - 🎯 Advanced filtering by multiple criteria
 
@@ -51,14 +51,7 @@ public function search(Request $request)
 }
 ```
 
-### Age Group Analysis
-```php
-public function sortByAgeGroup()
-{
-    // Custom algorithm for age group categorization
-    // with optimized database queries
-}
-```
+
 
 ### Theory Test Filtering
 ```php
@@ -68,7 +61,7 @@ DB::table('licenses')
     ->orderBy('theory_test', 'desc')
     ->get();
 ```
-## 🤝 Contributing
-## 📄 License
+ 🤝 Contributing
+ 📄 License
 
 
