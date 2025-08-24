@@ -1,4 +1,4 @@
-# Laravel License Management System
+# laravel licenses with meilisearch engine
 
 ### License Management
 - 🔍  search with Meilisearch 
