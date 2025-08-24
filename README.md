@@ -34,21 +34,26 @@ A comprehensive web application built with **Laravel 12** for managing driver's 
 
 ## 📸 Screenshots
 
-### Homepage
-![Homepage](screenshots/homepage.png)
+### License Management Interface
+<img src="screenshots/licenses_index.png" alt="Licenses Index Page" width="800">
 
-### Contact Management
-![Contacts List](screenshots/contacts-list.png)
-![Create Contact Form](screenshots/create-contact-form.png)
+### Create New License Form
+<img src="screenshots/licenses_create.png" alt="License Creation Form" width="800">
 
-### License Management
-![Licenses List](screenshots/licenses-list.png)
-![Create License Form](screenshots/create-license-form.png)
+### Meilisearch Integration - Instant Search
+<img src="screenshots/licenses_search_by_meilisearch.png" alt="Meilisearch Search Functionality" width="800">
 
-### Search & Filtering
-![Search Functionality](screenshots/search-functionality.png)
-![Age Group Analysis](screenshots/licenses-by-age-group.png)
-![Parking Licenses](screenshots/licenses-by-parking.png)
+### Advanced Search Features
+<img src="screenshots/licenses_search_advanced.png" alt="Advanced License Search" width="800">
+
+### Age Group Analysis & Sorting
+<img src="screenshots/licenses_sorted_by_age.png" alt="Licenses Sorted by Age Groups" width="800">
+
+### Parking License Filtering
+<img src="screenshots/licenses_sorted_by_parking.png" alt="Parking License Management" width="800">
+
+### Laravel Artisan Tinker - Database Queries
+<img src="screenshots/licenses_artisan_tinker.png" alt="Artisan Tinker Database Operations" width="800">
 
 ## 🚀 Installation
 
