@@ -41,19 +41,15 @@
 
 ## 🎯 Advanced Features
 
-### Custom Search Algorithm
-```php
+
 public function search(Request $request)
 {
     $query = $request->input('query');
     $licenses = License::search($query)->get();
     return view('licenses', compact('licenses'));
 }
-```
 
-
-
-### Theory Test Filtering
+###  Filtering
 ```php
 // Advanced filtering with query builder
 DB::table('licenses')
