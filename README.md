@@ -1,7 +1,6 @@
 # Laravel License Management System
 
 A comprehensive web application built with **Laravel 12** for managing driver's licenses and contacts, featuring advanced search capabilities powered by **Meilisearch**.
-
 ## 🚀 Features
 
 ### License Management
