@@ -41,13 +41,14 @@
 
 ## 🎯 Advanced Features
 
-
+```php
 public function search(Request $request)
 {
     $query = $request->input('query');
     $licenses = License::search($query)->get();
     return view('licenses', compact('licenses'));
 }
+```
 
 ###  Filtering
 ```php
@@ -57,7 +58,7 @@ DB::table('licenses')
     ->orderBy('theory_test', 'desc')
     ->get();
 ```
- 🤝 Contributing
- 📄 License
+ 🤝 
+ 📄 
 
 
