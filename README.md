@@ -1,7 +1,6 @@
 # Laravel License Management System
 
 ### License Management
-- ✅ CRUD operations for licenses
 - 🔍  search with Meilisearch 
 - 📊 groups analysis 
 - 🅿️ **Parking license filtering** and management
