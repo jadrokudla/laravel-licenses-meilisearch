@@ -19,10 +19,10 @@ Nakoniec je súčasťou ukážka využitia Artisan konzoly na filtrovanie dát z
  <h2>📸 advanced search by criteria</h2>
 <img src="screenshots/licenses_search_advanced.png" alt="Advanced License Search" width="800">
 
-<h2>📸 age group analysis, sorting by function</h2>
+<h2>📸 age group filtering by function</h2>
 <img src="screenshots/licenses_sorted_by_age.png" alt="Licenses Sorted by Age Groups" width="800">
 
-<h2>📸 parking icense filtering by function</h2>
+<h2>📸 parking license filtering by function</h2>
 <img src="screenshots/licenses_sorted_by_parking.png" alt="Parking License Management" width="800">
 
 <h2>📸 artisan tinker - database queries by criteria</h2>
