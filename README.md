@@ -32,7 +32,7 @@
 
 ###  Filtering
 ```php
-// Advanced filtering with query builder
+//  filtering with query builder
 DB::table('licenses')
     ->where('theory_test', '>', 50)
     ->orderBy('theory_test', 'desc')
