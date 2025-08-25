@@ -1,5 +1,5 @@
 # Absract of this project 
-- Demonstrates development abilities suitable for any license management, or any system requiring complex data filtering, search functionality, and MVC web application architecture.
+- Demonstrates development abilities suitable for license management, or any system requiring complex data filtering, search functionality, and MVC web application architecture.
 - Using Eloquent ORM for database operations, Laravel Scout integration with Meilisearch for instant full-text search capabilities, and RESTful API development returning structured JSON responses.
   
 - 🔍  search with Meilisearch 
