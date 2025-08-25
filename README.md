@@ -1,4 +1,4 @@
-<h4> Abstrakt: </h4>
+<b> Abstrakt: </b>
 MVC project, Implementácia komplexného filtrovania a vyhľadávania.
 Použité technológie a postupy:
 Eloquent ORM pre databázové operácie, Laravel Scout integrovaný s Meilisearch pre okamžité full-textové vyhľadávanie, Tvorba RESTful API so štruktúrovanými JSON odpoveďami
