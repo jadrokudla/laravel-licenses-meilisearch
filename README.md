@@ -1,9 +1,9 @@
-<b> Abstrakt: </b><br>
+<strong> Abstrakt: </strong><br>
 MVC project, Implementácia komplexného filtrovania a vyhľadávania.
 Použité technológie a postupy:
 Eloquent ORM pre databázové operácie, Laravel Scout integrovaný s Meilisearch pre okamžité full-textové vyhľadávanie, Tvorba RESTful API so štruktúrovanými JSON odpoveďami
 
-<b> Absract:</b><br> 
+<b> Abstract</b><br> 
 Demonstrates development abilities suitable for license management, or any system requiring complex data filtering, search functionality, and MVC web application architecture.
 Using Eloquent ORM for database operations, Laravel Scout integration with Meilisearch for instant full-text search capabilities, and RESTful API development returning structured JSON responses.
 <br><br>
