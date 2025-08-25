@@ -16,7 +16,7 @@ Nakoniec je súčasťou ukážka využitia Artisan konzoly na filtrovanie dát z
  <h2>📸 search by query "bas" => basic</h2>
 <img src="screenshots/licenses_search_by_meilisearch.png" alt="Meilisearch Search Functionality" width="800">
 
- <h2>📸 advanced Search by criteria</h2>
+ <h2>📸 advanced search by criteria</h2>
 <img src="screenshots/licenses_search_advanced.png" alt="Advanced License Search" width="800">
 
 <h2>📸 age group analysis, sorting by function</h2>
