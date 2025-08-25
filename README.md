@@ -1,5 +1,5 @@
 <b> Abstrakt: </b><br>
-Užívateľ vyplní formulár, ktorý sa uloží do databázy licencií. Projekt obsahuje dve funkcie: zoradenie parkovania DESC (zostupne) a zoradenie podľa veku ASC (vzostupne). Pomocou týchto funkcií si používateľ vie vyfiltrovať a zobraziť príslušné údaje.
+Užívateľ vyplní formulár, ktorý sa uloží do databázy licencií. Projekt obsahuje dve funkcie: zoradenie podľa veku ASC(vzostupne) a zoradenie parkovania DESC(zostupne) . Pomocou týchto funkcií si používateľ vie vyfiltrovať a zobraziť príslušné údaje.
 V projekte je tiež implementovaný Meilisearch, ktorý slúži ako vyhľadávač. Ďalej je k dispozícii advanced search (pokročilé vyhľadávanie), kde si používateľ pomocou šablóny a kritérií sám vyfiltruje potrebné údaje z databázy.
 Nakoniec je súčasťou ukážka využitia Artisan konzoly na filtrovanie dát z databázy pomocou query buildera.</br><br>
 
