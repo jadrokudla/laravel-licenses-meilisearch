@@ -26,19 +26,6 @@
 <h1>📸 Laravel Artisan Tinker - Database Queries</h1>
 <img src="screenshots/licenses_artisan_tinker.png" alt="Artisan Tinker Database Operations" width="800">
 
-
-
-## 🎯 Advanced Features
-
-```php
-public function search(Request $request)
-{
-    $query = $request->input('query');
-    $licenses = License::search($query)->get();
-    return view('licenses', compact('licenses'));
-}
-```
-
 ###  Filtering
 ```php
 // Advanced filtering with query builder
@@ -47,7 +34,6 @@ DB::table('licenses')
     ->orderBy('theory_test', 'desc')
     ->get();
 ```
- 🤝 
- 📄 
+ 
 
 
