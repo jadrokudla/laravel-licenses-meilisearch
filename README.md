@@ -1,10 +1,8 @@
 <b> Abstrakt: </b><br>
 Užívateľ si vyplní formulár, ktorý sa uloží do databázy licencií. V projekte sú dve funkcie, funkcia parkovania DESC(zostupne) a zoradenie poďla veku ASC(vzostupne). Pomocou týchto funkcií si uživaťeľ, vie vyfiltrovať a zobraziť príslušne údaje. V tomto projekte je tiež implementovaný meilisearch, ktorý slúži ako vyhľadavač. Takisto je tu aj advanced search, uživaťel si pomocou šablony a kritérií, sám vyfiltruje potrebné údaje z databázy. Nakoniec je ukážka, pomocou artisan konzoly, ako sa cez query builder filtrujú dáta z databázy.</br><br>
 
-- 🔍  search with Meilisearch 
+- 🔍 search
 - 📊 groups analysis 
-- 🅿️ **Parking license filtering** 
-- 📈 **Theory test score tracking** and filtering
 - 🎯 Advanced filtering by multiple criteria
   
 <h1>📸 License Interface</h1>
