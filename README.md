@@ -6,7 +6,7 @@ Eloquent ORM pre databázové operácie, Laravel Scout integrovaný s Meilisearc
 <h4> Absract:</h4> 
 Demonstrates development abilities suitable for license management, or any system requiring complex data filtering, search functionality, and MVC web application architecture.
 Using Eloquent ORM for database operations, Laravel Scout integration with Meilisearch for instant full-text search capabilities, and RESTful API development returning structured JSON responses.
-<br>
+<br><br>
 
 - 🔍  search with Meilisearch 
 - 📊 groups analysis 
