@@ -7,25 +7,25 @@ Nakoniec je súčasťou ukážka využitia Artisan konzoly na filtrovanie dát z
 - 📊 groups analysis 
 - 🎯 Advanced filtering by multiple criteria
   
-<h1>📸 License Interface</h1>
+<h2>📸 license Interface</h2>
 <img src="screenshots/licenses_index.png" alt="Licenses Index Page" width="800">
 
-<h1>📸 Create new record in database</h1>
+<h2>📸 create new record in database</h2>
 <img src="screenshots/licenses_create.png" alt="License Creation Form" width="800">
 
- <h1>📸 Meilisearch by query "bas"</h1>
+ <h2>📸 search by query "bas" => basic</h2>
 <img src="screenshots/licenses_search_by_meilisearch.png" alt="Meilisearch Search Functionality" width="800">
 
- <h1>📸 Advanced Search by criteria</h1>
+ <h2>📸 advanced Search by criteria</h2>
 <img src="screenshots/licenses_search_advanced.png" alt="Advanced License Search" width="800">
 
-<h1>📸 Age Group Analysis, Sorting by function</h1>
+<h2>📸 age group analysis, sorting by function</h2>
 <img src="screenshots/licenses_sorted_by_age.png" alt="Licenses Sorted by Age Groups" width="800">
 
-<h1>📸 Parking License Filtering by function</h1>
+<h2>📸 parking icense filtering by function</h2>
 <img src="screenshots/licenses_sorted_by_parking.png" alt="Parking License Management" width="800">
 
-<h1>📸 Laravel Artisan Tinker - Database Queries by criteria</h1>
+<h2>📸 artisan tinker - database queries by criteria</h2>
 <img src="screenshots/licenses_artisan_tinker.png" alt="Artisan Tinker Database Operations" width="800">
 
 ###  Filtering
