@@ -1,6 +1,6 @@
 # Absract of this project 
-- Demonstrates real-world application development skills suitable for license management, government agencies, or any system requiring complex data filtering, search functionality, and professional web application architecture.
-- The project demonstrates proficiency in Eloquent ORM for database operations, Laravel Scout integration with Meilisearch for instant full-text search capabilities, and RESTful API development returning structured JSON responses.
+- Demonstrates development abilities suitable for any license management, or any system requiring complex data filtering, search functionality, and MVC web application architecture.
+- Using Eloquent ORM for database operations, Laravel Scout integration with Meilisearch for instant full-text search capabilities, and RESTful API development returning structured JSON responses.
   
 - 🔍  search with Meilisearch 
 - 📊 groups analysis 
