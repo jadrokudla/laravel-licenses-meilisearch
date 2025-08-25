@@ -1,40 +1,29 @@
 # laravel licenses with meilisearch engine
-
-### License Management
 - 🔍  search with Meilisearch 
 - 📊 groups analysis 
 - 🅿️ **Parking license filtering** 
 - 📈 **Theory test score tracking** and filtering
 - 🎯 Advanced filtering by multiple criteria
 
-## 🛠️ Tech Stack
-- **Framework:** Laravel 12 (PHP 8.2+)
-- **Database:** MySQL
-- **Search Engine:** Meilisearch
-- **Frontend:** Blade Templates, Vite, CSS
-- **Development:** Composer, Artisan CLI
-
- 📸 Screenshots
-
-📸 License Interface
+<h1>📸 License Interface</h1>
 <img src="screenshots/licenses_index.png" alt="Licenses Index Page" width="800">
 
-📸 Create new record
+<h1>📸 Create new record</h1>
 <img src="screenshots/licenses_create.png" alt="License Creation Form" width="800">
 
-📸 Meilisearch 
+ <h1>📸 Meilisearch</h1>
 <img src="screenshots/licenses_search_by_meilisearch.png" alt="Meilisearch Search Functionality" width="800">
 
-📸 Advanced Search 
+ <h1>📸 Advanced Search</h1>
 <img src="screenshots/licenses_search_advanced.png" alt="Advanced License Search" width="800">
 
-📸 Age Group Analysis & Sorting
+<h1>📸 Age Group Analysis & Sorting</h1>
 <img src="screenshots/licenses_sorted_by_age.png" alt="Licenses Sorted by Age Groups" width="800">
 
-📸 Parking License Filtering
+<h1>📸 Parking License Filtering</h1>
 <img src="screenshots/licenses_sorted_by_parking.png" alt="Parking License Management" width="800">
 
-📸 Laravel Artisan Tinker - Database Queries
+<h1>📸 Laravel Artisan Tinker - Database Queries</h1>
 <img src="screenshots/licenses_artisan_tinker.png" alt="Artisan Tinker Database Operations" width="800">
 
 
